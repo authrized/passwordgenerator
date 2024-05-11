@@ -1,7 +1,7 @@
+// This example uses SwiftUI. You don't have to use SwiftUI for the generator, if you want to see the plain generator, go to generator.swift.
 import SwiftUI
 
-struct ExampleView: View { 
-  
+struct ExampleView: View { // Defines the view
     @State private var passwordLength: Double = 12
     @State private var letters: String = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
     @State private var numbers: String = "0123456789"
