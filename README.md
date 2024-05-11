@@ -1,5 +1,5 @@
 ## Overview
-This is the code for the password generator in Toolbox. The code is avalible for use in your projects as defined in LICENSE.txt.
+This is the code for the password generator in Toolbox. The code is avalible for use in your projects as defined in LICENSE.txt. We are not responsible for any passwords made in this generator being hacked, stolen, or found out. No password is unbreakable.
 
 ## Table of Contents
 ### generator.swift
